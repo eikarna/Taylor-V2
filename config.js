@@ -35,10 +35,10 @@ async function loadConfig() {
 
         /*Oᴡɴᴇʀ number*/
         global.owner = [
-            ["6282195322106", "️𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 - 𝑶𝒘𝒏𝒆𝒓", true]
+            ["6285813616319", "️Eikarna", true]
         ]
-        global.mods = ["6282195322106"]
-        global.prems = ["6282195322106"]
+        global.mods = ["6285813616319"]
+        global.prems = ["6285813616319"]
 
         /*Website*/
         global.APIs = {
@@ -79,7 +79,7 @@ async function loadConfig() {
 
         /*Number*/
         global.nomorbot = "212760023461"
-        global.nomorown = "6282195322106"
+        global.nomorown = "6285813616319"
         global.namebot = " ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ "
         global.nameown = "「 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 」"
 
@@ -999,7 +999,7 @@ function PageDoc() {
 }
 
 function businessOwnerJid() {
-    let Org = pickRandom([global.nomorown, "0", "628561122343", "6288906250517", "6282195322106", "6281119568305", "6281282722861", "6282112790446"])
+    let Org = pickRandom([global.nomorown])
     let Parti = pickRandom([Org + "@s.whatsapp.net"])
     return Parti;
 }
