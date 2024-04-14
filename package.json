@@ -27,16 +27,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/AyGemuy",
+    "homepage": "https://github.com/eikarna",
     "author": {
-        "name": "AyGemuy"
+        "name": "Eikarna"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AyGemuy/Taylor-V2.git"
+        "url": "git+https://github.com/Eikarna/Taylor-V2.git"
     },
     "bugs": {
-        "url": "https://github.com/AyGemuy/Taylor-V2/issues"
+        "url": "https://github.com/Eikarna/Taylor-V2/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
